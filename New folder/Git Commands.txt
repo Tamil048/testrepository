@@ -1,0 +1,27 @@
+1.Verify the GIT version on your computer
+-->git --vesion
+Push code from local machine to GITHUB server.
+
+2.Creating one new branch
+-->git checkout -b "GIT"
+
+3. whatever we modified in our local file.(ie..unstaged)
+-->git status
+
+4.To commit in local branch:
+-->git add . (. means added all the files whatever we modififed)
+-->git commit -m "message content"
+
+5.Push the code into our local branch:
+-->git push origin "GIT"
+
+
+First time configure:
+git config --global user.name "Tamil048"
+git config --global user.email tamilselvan.ark@gmail.com
+git clone (url)
+
+Once done your above steps.Follow the below steps.
+ls --> Repository name should be displayed.
+cd Repositoy Name--> Entering into repository
+ls -->branch name is displayed
