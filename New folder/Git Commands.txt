@@ -5,7 +5,7 @@ Push code from local machine to GITHUB server.
 2.Creating one new branch
 -->git checkout -b "GIT"
 
-3. whatever we modified in our local file.(ie..unstaged)
+3. Display our local modified changes
 -->git status
 
 4.To commit in local branch:
